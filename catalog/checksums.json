@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3664,
+      "sha256": "e7016f60e4a96c402494859a2e5583b8e5954e5dda25808918cfeebfa86600c3"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -63,8 +73,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1571,
-      "sha256": "e83858b093dd66f3f5db425653e3d243d4cb46be6b1db7450f006cc2b7fa05b2"
+      "bytes": 1793,
+      "sha256": "ab73e70e830d3bfddd36e50929378191a3eb84ae1e754feaefc621210a158566"
     },
     {
       "path": "catalog/release-spec.json",
@@ -103,8 +113,8 @@
     },
     {
       "path": "downloads/electro-studies-midi.zip",
-      "bytes": 24853,
-      "sha256": "c66ff78e56585738e772bbf1c2df7a2d8e9f5ae35ebe348dff678a4a67453d7f"
+      "bytes": 26127,
+      "sha256": "ad70589a5a0b76fdcd87e902a80685f8cbc4c2dd61f5b3d99aeaf544f9a8f98e"
     },
     {
       "path": "film/poster.jpg",
@@ -278,13 +288,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1039,
-      "sha256": "5b91332b962a69983f4288b4c8f4e94c35319f6895ed0a30510761db71f7f5ea"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3503,
-      "sha256": "1b97e128133a8f851eca51216f155f524a938d6e1b5c537d5b8ed8c7d06ad5fc"
+      "bytes": 1122,
+      "sha256": "6ad4d43796171911a065741eb0faadb9359d50da52b7910fe92783268b97b74e"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -313,13 +318,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 59060,
-      "sha256": "861349c82200b232d31e67255e5c3f2df3a6d07d478168712163224db1bb785b"
+      "bytes": 59237,
+      "sha256": "4f287a942b42d24d0fdad95868f2b08cf1ef059a4f9c63d5882a461c5dc6efe7"
     },
     {
       "path": "tools/polish_release.py",
