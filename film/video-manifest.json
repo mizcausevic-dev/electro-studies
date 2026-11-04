@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/electro-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "94a70c387b34ed42d97929776c76cd7223ba1fe838f4044ce22b102a98ccd0f6",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "378b073e810818a91124963eae10f84223881d958c26925e7d565fc891cb7cca",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

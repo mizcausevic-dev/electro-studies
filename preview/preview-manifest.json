@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/electro-studies-simple-synth-preview.mp3",
+  "preview_sha256": "94a70c387b34ed42d97929776c76cd7223ba1fe838f4044ce22b102a98ccd0f6",
+  "source_midi_path": "midi/el01-relay-box/el01-relay-box-combined.mid",
+  "source_midi_sha256": "8fe05dbb967a53d0f18813e3ec3f666e8d6c15a16863510abe0d0bc6338b59fa",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "el01",
+    "start_seconds": 0,
+    "end_seconds": 60.0
+  },
+  "measurement": {
+    "sample_peak": 0.113363,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+el01,Relay Box,pack-local equal-tempered pitch collection,C,128,4/4,480,32,61440,midi/el01-relay-box/el01-relay-box-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+el02,Voltage Code,pack-local equal-tempered pitch collection,D#,128,4/4,480,32,61440,midi/el02-voltage-code/el02-voltage-code-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+el03,Steel Motion,pack-local equal-tempered pitch collection,F#,128,4/4,480,32,61440,midi/el03-steel-motion/el03-steel-motion-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+el04,Return Signal,pack-local equal-tempered pitch collection,C#,128,4/4,480,32,61440,midi/el04-return-signal/el04-return-signal-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
