@@ -7,6 +7,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 777,
+      "sha256": "8793149c37a6aa1094a821d0202c109146b82bbf1e34311c827f4ae4dc6008c2"
+    },
+    {
       "path": "README.md",
       "bytes": 3664,
       "sha256": "e7016f60e4a96c402494859a2e5583b8e5954e5dda25808918cfeebfa86600c3"
@@ -117,6 +122,36 @@
       "sha256": "ad70589a5a0b76fdcd87e902a80685f8cbc4c2dd61f5b3d99aeaf544f9a8f98e"
     },
     {
+      "path": "film/motion-artwork.jpg",
+      "bytes": 346718,
+      "sha256": "1ccca584a6d25e55e6cbf23c9b386343f324a500c13c1805c3af44ea58b5b6a4"
+    },
+    {
+      "path": "film/motion-manifest.json",
+      "bytes": 1180,
+      "sha256": "fa3929fd6157faccceb7116dd22eaa69961158bac454dfabc49f9196468d1b19"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2852,
+      "sha256": "b5e600aaa6e168712e940204f6017c7be592e1a116122499654300746569610d"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 29209,
+      "sha256": "1cf30371bd320c051fff6117c6767b862198b2ff0ec633ee3094b49fd180be63"
+    },
+    {
+      "path": "film/motion-preview.mp4",
+      "bytes": 1190646,
+      "sha256": "8168577e464de6b5bb9fd103be223b4a21a01658d6161cb68e5b6c09ff2a06e2"
+    },
+    {
+      "path": "film/motion-preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
       "path": "film/poster.jpg",
       "bytes": 296801,
       "sha256": "279ddcd22eb873bf52bbbbfa68843398309917a23407b723102af9133d1329a1"
@@ -138,8 +173,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9231,
-      "sha256": "316b48f76b115b77c23e3886c0b7bf0a9344dbc816332cf7a896d1e0915f7aa0"
+      "bytes": 9246,
+      "sha256": "5f230b1821eb8a64b9aa9414bf10950905a5c182b294d21bbe15f373e9b1eafc"
     },
     {
       "path": "midi/el01-relay-box/chord_pulse.mid",
@@ -330,6 +365,11 @@
       "path": "tools/polish_release.py",
       "bytes": 7579,
       "sha256": "a3fe7b08a0ff8b21ef9dc8fe947ec8f2dcdf95a34e61c39e08bb1fab06000c4a"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
     },
     {
       "path": "tools/validate_release.py",

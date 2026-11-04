@@ -1,0 +1,26 @@
+{
+  "title": "Electro",
+  "study": "el01",
+  "bpm": 128,
+  "source_audio": "preview/electro-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "94a70c387b34ed42d97929776c76cd7223ba1fe838f4044ce22b102a98ccd0f6",
+  "source_midi": "midi/el01-relay-box/el01-relay-box-combined.mid",
+  "source_midi_sha256": "8fe05dbb967a53d0f18813e3ec3f666e8d6c15a16863510abe0d0bc6338b59fa",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "7b9e515ef33c03f7b178341f04d901c828edac81ce6dc9aa5d793d260a1cd8bb",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "1ccca584a6d25e55e6cbf23c9b386343f324a500c13c1805c3af44ea58b5b6a4",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "8168577e464de6b5bb9fd103be223b4a21a01658d6161cb68e5b6c09ff2a06e2",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
